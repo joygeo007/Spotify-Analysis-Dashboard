@@ -6,8 +6,7 @@ A dashboad analysing Spotify dataset of top 100 songs from 2000 to 2019
 ![Spotify](https://github.com/joygeo007/Spotify-Analysis-Dashboard/assets/64395407/5945faa0-1852-4377-9e59-9b143f94418e)
 <be>
 
-### Link to the Tableau Public Dashboard
-![Click here](https://public.tableau.com/views/SpotifyAnalysisoftop100songs2000-2019/Spotify?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+### [Link to the Tableau Public Dashboard](https://public.tableau.com/views/SpotifyAnalysisoftop100songs2000-2019/Spotify?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 ### Dataset Overview
